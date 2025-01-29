@@ -1,2 +1,3 @@
 # Class
-First github cllass
+First github class
+Its amazing
