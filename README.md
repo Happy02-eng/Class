@@ -1,3 +1,3 @@
 # Class
-First github class
+First programming class
 Its amazing
